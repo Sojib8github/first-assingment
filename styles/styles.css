@@ -1,0 +1,160 @@
+
+.banner{
+    background-image: url('../images/banner/banner.png');
+    background-repeat: no-repeat;
+    
+    width: 1600px;
+    height: 809px;
+    left: 1600px;
+    top: 0;
+    margin-bottom: 2414px;
+
+}
+.banner-header{
+    color: white;
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    font-family: 'Work sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    
+}
+.banner-description{
+    color: white;
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    margin-top: 44px;
+}
+
+.button-primary{
+    background-color: #ffffff;
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    border-radius: 5px;
+    color:#005FAC;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    margin-top: 30px;
+    border: 0;
+    font-family: 'Work Sans';
+}
+
+.second-page{
+    width: 372px;
+    height: 500px;
+    left: 5px;
+    top: 117px;
+    
+    
+}
+
+.secondery-header{
+    color: black;
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 900px;
+    top: 1100px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+.secondary-description{
+    color: #444343;
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 900px;
+    top: 1250px;
+    font-family:'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+}
+.third-description{
+    width: 349px;
+    height: 162px;
+    top: 1403px;
+    left:900px;
+    display:list-item;
+    margin: 30px;
+    padding: 5px;
+}
+
+.img{
+    position: absolute;
+    width: 569px;
+    height: 724px;
+    left: 218px;
+    top: 926px;  
+}
+.third-description{
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 874px;
+    top: 1300px;
+    display: flex;
+    
+}
+.my-plans{
+    margin: 50px;
+    align-items: center;
+    
+
+}
+
+.plansets{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    
+}
+.fourth-header{
+    margin-top: 10px;
+    font-family: 'Work Sans';
+    font-size: 70px;
+    text-align: center;
+}
+.button-secondary{
+
+}
+.secondary-img{
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+}
+.footer{
+    background-color: black;
+    width: 1600px;
+    height: 577px;
+
+    left: 0px;
+    top: 2651.96px;
+}
+.footer .footer-header{
+    color: orange;
+    text-align: left;
+}
